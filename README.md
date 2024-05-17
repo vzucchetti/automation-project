@@ -58,7 +58,7 @@ for line in table.index:
 
 1. **Clone the Repository:**
 ```python
-git clone https://github.com/[your-username]/[your-repository-name].git
+git clone https://github.com/vzucchetti/automation-project.git
 ```
 
 2. **Install Dependencies:**
