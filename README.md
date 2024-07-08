@@ -1,6 +1,6 @@
 # Automation Product Registration with Python
 
-This repository houses a Python script designed to automate the tedious task of registering products into a system. Originally conceived during the "Python Journey" crash course offered by Hashtag, this project provides a practical solution to a common business problem: efficiently managing large datasets.
+This repository houses a Python script designed to automate the tedious task of registering products into a system. This project provides a practical solution to a common business problem: efficiently managing large datasets.
 
 ## Project Overview
 
